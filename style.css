@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border-radius: 5px;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: whitesmoke;
+    border: 2px solid red;
+}
+
+.container{
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+h1{
+    font-family: cursive;
+}
+
+textarea{
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+button{
+    padding: 5px;
+}
